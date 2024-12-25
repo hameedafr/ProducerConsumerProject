@@ -1,0 +1,8976 @@
+Wed Dec 25 16:12:47 2024
+: Producer 1 produced item: 84
+Wed Dec 25 16:12:47 2024
+: Buffer state: [
+Wed Dec 25 16:12:47 2024
+: 84 
+Wed Dec 25 16:12:47 2024
+: ]
+Wed Dec 25 16:12:47 2024
+: Producer 2 produced item: 87
+Wed Dec 25 16:12:47 2024
+: Buffer state: [
+Wed Dec 25 16:12:47 2024
+: 84 
+Wed Dec 25 16:12:47 2024
+: 87 
+Wed Dec 25 16:12:47 2024
+: ]
+Wed Dec 25 16:12:47 2024
+: Consumer 1 consumed item: 84
+Wed Dec 25 16:12:47 2024
+: Buffer state: [
+Wed Dec 25 16:12:47 2024
+: 87 
+Wed Dec 25 16:12:47 2024
+: ]
+Wed Dec 25 16:12:47 2024
+: Consumer 2 consumed item: 87
+Wed Dec 25 16:12:47 2024
+: Buffer state: [
+Wed Dec 25 16:12:47 2024
+: ]
+Wed Dec 25 16:12:47 2024
+: Producer 1 produced item: 78
+Wed Dec 25 16:12:47 2024
+: Buffer state: [
+Wed Dec 25 16:12:47 2024
+: 78 
+Wed Dec 25 16:12:47 2024
+: ]
+Wed Dec 25 16:12:47 2024
+: Producer 2 produced item: 16
+Wed Dec 25 16:12:47 2024
+: Buffer state: [
+Wed Dec 25 16:12:47 2024
+: 78 
+Wed Dec 25 16:12:47 2024
+: 16 
+Wed Dec 25 16:12:47 2024
+: ]
+Wed Dec 25 16:12:47 2024
+: Consumer 1 consumed item: 78
+Wed Dec 25 16:12:47 2024
+: Buffer state: [
+Wed Dec 25 16:12:47 2024
+: 16 
+Wed Dec 25 16:12:47 2024
+: ]
+Wed Dec 25 16:12:47 2024
+: Consumer 2 consumed item: 16
+Wed Dec 25 16:12:47 2024
+: Buffer state: [
+Wed Dec 25 16:12:47 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 94
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 94 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 2 produced item: 36
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 94 
+Wed Dec 25 16:12:48 2024
+: 36 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 87
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 94 
+Wed Dec 25 16:12:48 2024
+: 36 
+Wed Dec 25 16:12:48 2024
+: 87 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 1 consumed item: 94
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 36 
+Wed Dec 25 16:12:48 2024
+: 87 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 2 produced item: 93
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 36 
+Wed Dec 25 16:12:48 2024
+: 87 
+Wed Dec 25 16:12:48 2024
+: 93 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 2 consumed item: 36
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 87 
+Wed Dec 25 16:12:48 2024
+: 93 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 50
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 87 
+Wed Dec 25 16:12:48 2024
+: 93 
+Wed Dec 25 16:12:48 2024
+: 50 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 2 produced item: 22
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 87 
+Wed Dec 25 16:12:48 2024
+: 93 
+Wed Dec 25 16:12:48 2024
+: 50 
+Wed Dec 25 16:12:48 2024
+: 22 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 1 consumed item: 87
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 93 
+Wed Dec 25 16:12:48 2024
+: 50 
+Wed Dec 25 16:12:48 2024
+: 22 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 2 consumed item: 93
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 50 
+Wed Dec 25 16:12:48 2024
+: 22 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 63
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 50 
+Wed Dec 25 16:12:48 2024
+: 22 
+Wed Dec 25 16:12:48 2024
+: 63 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 2 produced item: 28
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 50 
+Wed Dec 25 16:12:48 2024
+: 22 
+Wed Dec 25 16:12:48 2024
+: 63 
+Wed Dec 25 16:12:48 2024
+: 28 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 1 consumed item: 50
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 22 
+Wed Dec 25 16:12:48 2024
+: 63 
+Wed Dec 25 16:12:48 2024
+: 28 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 2 consumed item: 22
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 63 
+Wed Dec 25 16:12:48 2024
+: 28 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 91
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 63 
+Wed Dec 25 16:12:48 2024
+: 28 
+Wed Dec 25 16:12:48 2024
+: 91 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 2 produced item: 60
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 63 
+Wed Dec 25 16:12:48 2024
+: 28 
+Wed Dec 25 16:12:48 2024
+: 91 
+Wed Dec 25 16:12:48 2024
+: 60 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 64
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 63 
+Wed Dec 25 16:12:48 2024
+: 28 
+Wed Dec 25 16:12:48 2024
+: 91 
+Wed Dec 25 16:12:48 2024
+: 60 
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 1 consumed item: 63
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 28 
+Wed Dec 25 16:12:48 2024
+: 91 
+Wed Dec 25 16:12:48 2024
+: 60 
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 2 consumed item: 28
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 91 
+Wed Dec 25 16:12:48 2024
+: 60 
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 2 produced item: 27
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 91 
+Wed Dec 25 16:12:48 2024
+: 60 
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 41
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 91 
+Wed Dec 25 16:12:48 2024
+: 60 
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 2 consumed item: 91
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 60 
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 1 consumed item: 60
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 2 produced item: 27
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 73
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 64 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 73 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 2 consumed item: 64
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 73 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Consumer 1 consumed item: 27
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 73 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 2 produced item: 37
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 73 
+Wed Dec 25 16:12:48 2024
+: 37 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:48 2024
+: Producer 1 produced item: 12
+Wed Dec 25 16:12:48 2024
+: Buffer state: [
+Wed Dec 25 16:12:48 2024
+: 41 
+Wed Dec 25 16:12:48 2024
+: 27 
+Wed Dec 25 16:12:48 2024
+: 73 
+Wed Dec 25 16:12:48 2024
+: 37 
+Wed Dec 25 16:12:48 2024
+: 12 
+Wed Dec 25 16:12:48 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 2 consumed item: 41
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 27 
+Wed Dec 25 16:12:49 2024
+: 73 
+Wed Dec 25 16:12:49 2024
+: 37 
+Wed Dec 25 16:12:49 2024
+: 12 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 1 consumed item: 27
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 73 
+Wed Dec 25 16:12:49 2024
+: 37 
+Wed Dec 25 16:12:49 2024
+: 12 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 1 produced item: 68
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 73 
+Wed Dec 25 16:12:49 2024
+: 37 
+Wed Dec 25 16:12:49 2024
+: 12 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 2 produced item: 69
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 73 
+Wed Dec 25 16:12:49 2024
+: 37 
+Wed Dec 25 16:12:49 2024
+: 12 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 2 consumed item: 73
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 37 
+Wed Dec 25 16:12:49 2024
+: 12 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 1 consumed item: 37
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 12 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 1 produced item: 30
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 12 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 2 produced item: 83
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 12 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 2 consumed item: 12
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 1 consumed item: 68
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 1 produced item: 31
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: 31 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 2 produced item: 63
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 69 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: 31 
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 2 consumed item: 69
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: 31 
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 1 consumed item: 30
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: 31 
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 1 produced item: 24
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: 31 
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: 24 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 2 produced item: 68
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 83 
+Wed Dec 25 16:12:49 2024
+: 31 
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: 24 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 2 consumed item: 83
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 31 
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: 24 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 1 consumed item: 31
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: 24 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 2 produced item: 30
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: 24 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 1 produced item: 36
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 63 
+Wed Dec 25 16:12:49 2024
+: 24 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 2 consumed item: 63
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 24 
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 1 consumed item: 24
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 2 produced item: 3
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: 3 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 1 produced item: 23
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 68 
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: 3 
+Wed Dec 25 16:12:49 2024
+: 23 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 2 consumed item: 68
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: 3 
+Wed Dec 25 16:12:49 2024
+: 23 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 2 produced item: 59
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 30 
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: 3 
+Wed Dec 25 16:12:49 2024
+: 23 
+Wed Dec 25 16:12:49 2024
+: 59 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Consumer 1 consumed item: 30
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: 3 
+Wed Dec 25 16:12:49 2024
+: 23 
+Wed Dec 25 16:12:49 2024
+: 59 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:49 2024
+: Producer 1 produced item: 70
+Wed Dec 25 16:12:49 2024
+: Buffer state: [
+Wed Dec 25 16:12:49 2024
+: 36 
+Wed Dec 25 16:12:49 2024
+: 3 
+Wed Dec 25 16:12:49 2024
+: 23 
+Wed Dec 25 16:12:49 2024
+: 59 
+Wed Dec 25 16:12:49 2024
+: 70 
+Wed Dec 25 16:12:49 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 2 consumed item: 36
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 3 
+Wed Dec 25 16:12:50 2024
+: 23 
+Wed Dec 25 16:12:50 2024
+: 59 
+Wed Dec 25 16:12:50 2024
+: 70 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 2 produced item: 68
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 3 
+Wed Dec 25 16:12:50 2024
+: 23 
+Wed Dec 25 16:12:50 2024
+: 59 
+Wed Dec 25 16:12:50 2024
+: 70 
+Wed Dec 25 16:12:50 2024
+: 68 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 1 consumed item: 3
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 23 
+Wed Dec 25 16:12:50 2024
+: 59 
+Wed Dec 25 16:12:50 2024
+: 70 
+Wed Dec 25 16:12:50 2024
+: 68 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 1 produced item: 94
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 23 
+Wed Dec 25 16:12:50 2024
+: 59 
+Wed Dec 25 16:12:50 2024
+: 70 
+Wed Dec 25 16:12:50 2024
+: 68 
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 2 consumed item: 23
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 59 
+Wed Dec 25 16:12:50 2024
+: 70 
+Wed Dec 25 16:12:50 2024
+: 68 
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 1 consumed item: 59
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 70 
+Wed Dec 25 16:12:50 2024
+: 68 
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 2 produced item: 57
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 70 
+Wed Dec 25 16:12:50 2024
+: 68 
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: 57 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 1 produced item: 12
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 70 
+Wed Dec 25 16:12:50 2024
+: 68 
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: 57 
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 2 consumed item: 70
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 68 
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: 57 
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 1 consumed item: 68
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: 57 
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 2 produced item: 43
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: 57 
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: 43 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 1 produced item: 30
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 94 
+Wed Dec 25 16:12:50 2024
+: 57 
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: 43 
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 2 consumed item: 94
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 57 
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: 43 
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 1 consumed item: 57
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: 43 
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 1 produced item: 22
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: 43 
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: 22 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 2 produced item: 74
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 12 
+Wed Dec 25 16:12:50 2024
+: 43 
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: 22 
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 2 consumed item: 12
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 43 
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: 22 
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 1 consumed item: 43
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: 22 
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 1 produced item: 20
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: 22 
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: 20 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 2 produced item: 85
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 30 
+Wed Dec 25 16:12:50 2024
+: 22 
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: 20 
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 2 consumed item: 30
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 22 
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: 20 
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 1 produced item: 38
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 22 
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: 20 
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: 38 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 1 consumed item: 22
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: 20 
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: 38 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 2 produced item: 99
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 74 
+Wed Dec 25 16:12:50 2024
+: 20 
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: 38 
+Wed Dec 25 16:12:50 2024
+: 99 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 2 consumed item: 74
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 20 
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: 38 
+Wed Dec 25 16:12:50 2024
+: 99 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 1 produced item: 25
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 20 
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: 38 
+Wed Dec 25 16:12:50 2024
+: 99 
+Wed Dec 25 16:12:50 2024
+: 25 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Consumer 1 consumed item: 20
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: 38 
+Wed Dec 25 16:12:50 2024
+: 99 
+Wed Dec 25 16:12:50 2024
+: 25 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:50 2024
+: Producer 2 produced item: 16
+Wed Dec 25 16:12:50 2024
+: Buffer state: [
+Wed Dec 25 16:12:50 2024
+: 85 
+Wed Dec 25 16:12:50 2024
+: 38 
+Wed Dec 25 16:12:50 2024
+: 99 
+Wed Dec 25 16:12:50 2024
+: 25 
+Wed Dec 25 16:12:50 2024
+: 16 
+Wed Dec 25 16:12:50 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 2 consumed item: 85
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 38 
+Wed Dec 25 16:12:51 2024
+: 99 
+Wed Dec 25 16:12:51 2024
+: 25 
+Wed Dec 25 16:12:51 2024
+: 16 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 1 produced item: 71
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 38 
+Wed Dec 25 16:12:51 2024
+: 99 
+Wed Dec 25 16:12:51 2024
+: 25 
+Wed Dec 25 16:12:51 2024
+: 16 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 1 consumed item: 38
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 99 
+Wed Dec 25 16:12:51 2024
+: 25 
+Wed Dec 25 16:12:51 2024
+: 16 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 2 produced item: 14
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 99 
+Wed Dec 25 16:12:51 2024
+: 25 
+Wed Dec 25 16:12:51 2024
+: 16 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 2 consumed item: 99
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 25 
+Wed Dec 25 16:12:51 2024
+: 16 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 1 consumed item: 25
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 16 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 1 produced item: 27
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 16 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: 27 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 2 produced item: 92
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 16 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: 27 
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 2 consumed item: 16
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: 27 
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 1 consumed item: 71
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: 27 
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 1 produced item: 81
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: 27 
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: 81 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 2 produced item: 57
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 14 
+Wed Dec 25 16:12:51 2024
+: 27 
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: 81 
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 2 consumed item: 14
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 27 
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: 81 
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 1 consumed item: 27
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: 81 
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 1 produced item: 74
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: 81 
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: 74 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 2 produced item: 63
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 92 
+Wed Dec 25 16:12:51 2024
+: 81 
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: 74 
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 2 consumed item: 92
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 81 
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: 74 
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 1 consumed item: 81
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: 74 
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 2 produced item: 97
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: 74 
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: 97 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 1 produced item: 71
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 57 
+Wed Dec 25 16:12:51 2024
+: 74 
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: 97 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 2 consumed item: 57
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 74 
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: 97 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Consumer 1 consumed item: 74
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: 97 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 2 produced item: 82
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: 97 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: 82 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:51 2024
+: Producer 1 produced item: 6
+Wed Dec 25 16:12:51 2024
+: Buffer state: [
+Wed Dec 25 16:12:51 2024
+: 63 
+Wed Dec 25 16:12:51 2024
+: 97 
+Wed Dec 25 16:12:51 2024
+: 71 
+Wed Dec 25 16:12:51 2024
+: 82 
+Wed Dec 25 16:12:51 2024
+: 6 
+Wed Dec 25 16:12:51 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 2 consumed item: 63
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 97 
+Wed Dec 25 16:12:52 2024
+: 71 
+Wed Dec 25 16:12:52 2024
+: 82 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 1 consumed item: 97
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 71 
+Wed Dec 25 16:12:52 2024
+: 82 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 2 produced item: 26
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 71 
+Wed Dec 25 16:12:52 2024
+: 82 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 26 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 1 produced item: 85
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 71 
+Wed Dec 25 16:12:52 2024
+: 82 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 26 
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 2 consumed item: 71
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 82 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 26 
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 1 consumed item: 82
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 26 
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 2 produced item: 28
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 26 
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: 28 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 1 produced item: 37
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 26 
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: 28 
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 2 consumed item: 6
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 26 
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: 28 
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 1 consumed item: 26
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: 28 
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 2 produced item: 6
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: 28 
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 1 produced item: 47
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 85 
+Wed Dec 25 16:12:52 2024
+: 28 
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 2 consumed item: 85
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 28 
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 1 consumed item: 28
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 2 produced item: 30
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: 30 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 1 produced item: 14
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 37 
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: 30 
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 2 consumed item: 37
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 6 
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: 30 
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 1 consumed item: 6
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: 30 
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 1 produced item: 25
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: 30 
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: 25 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 2 produced item: 58
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 47 
+Wed Dec 25 16:12:52 2024
+: 30 
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: 25 
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 2 consumed item: 47
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 30 
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: 25 
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 1 consumed item: 30
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: 25 
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 1 produced item: 96
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: 25 
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: 96 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 2 produced item: 83
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 14 
+Wed Dec 25 16:12:52 2024
+: 25 
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: 96 
+Wed Dec 25 16:12:52 2024
+: 83 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 2 consumed item: 14
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 25 
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: 96 
+Wed Dec 25 16:12:52 2024
+: 83 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Consumer 1 consumed item: 25
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: 96 
+Wed Dec 25 16:12:52 2024
+: 83 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 1 produced item: 46
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: 96 
+Wed Dec 25 16:12:52 2024
+: 83 
+Wed Dec 25 16:12:52 2024
+: 46 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:52 2024
+: Producer 2 produced item: 15
+Wed Dec 25 16:12:52 2024
+: Buffer state: [
+Wed Dec 25 16:12:52 2024
+: 58 
+Wed Dec 25 16:12:52 2024
+: 96 
+Wed Dec 25 16:12:52 2024
+: 83 
+Wed Dec 25 16:12:52 2024
+: 46 
+Wed Dec 25 16:12:52 2024
+: 15 
+Wed Dec 25 16:12:52 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 2 consumed item: 58
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 96 
+Wed Dec 25 16:12:53 2024
+: 83 
+Wed Dec 25 16:12:53 2024
+: 46 
+Wed Dec 25 16:12:53 2024
+: 15 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 1 consumed item: 96
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 83 
+Wed Dec 25 16:12:53 2024
+: 46 
+Wed Dec 25 16:12:53 2024
+: 15 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 1 produced item: 68
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 83 
+Wed Dec 25 16:12:53 2024
+: 46 
+Wed Dec 25 16:12:53 2024
+: 15 
+Wed Dec 25 16:12:53 2024
+: 68 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 2 produced item: 35
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 83 
+Wed Dec 25 16:12:53 2024
+: 46 
+Wed Dec 25 16:12:53 2024
+: 15 
+Wed Dec 25 16:12:53 2024
+: 68 
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 2 consumed item: 83
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 46 
+Wed Dec 25 16:12:53 2024
+: 15 
+Wed Dec 25 16:12:53 2024
+: 68 
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 1 consumed item: 46
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 15 
+Wed Dec 25 16:12:53 2024
+: 68 
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 1 produced item: 65
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 15 
+Wed Dec 25 16:12:53 2024
+: 68 
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: 65 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 2 produced item: 44
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 15 
+Wed Dec 25 16:12:53 2024
+: 68 
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: 65 
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 2 consumed item: 15
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 68 
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: 65 
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 1 produced item: 51
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 68 
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: 65 
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: 51 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 1 consumed item: 68
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: 65 
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: 51 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 2 produced item: 88
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 35 
+Wed Dec 25 16:12:53 2024
+: 65 
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: 51 
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 2 consumed item: 35
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 65 
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: 51 
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 1 consumed item: 65
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: 51 
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 1 produced item: 9
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: 51 
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: 9 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 2 produced item: 77
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 44 
+Wed Dec 25 16:12:53 2024
+: 51 
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: 9 
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 2 consumed item: 44
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 51 
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: 9 
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 1 consumed item: 51
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: 9 
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 2 produced item: 79
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: 9 
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: 79 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 1 produced item: 89
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 88 
+Wed Dec 25 16:12:53 2024
+: 9 
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: 79 
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 2 consumed item: 88
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 9 
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: 79 
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 2 produced item: 85
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 9 
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: 79 
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: 85 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 1 consumed item: 9
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: 79 
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: 85 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 1 produced item: 4
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 77 
+Wed Dec 25 16:12:53 2024
+: 79 
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: 85 
+Wed Dec 25 16:12:53 2024
+: 4 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 2 consumed item: 77
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 79 
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: 85 
+Wed Dec 25 16:12:53 2024
+: 4 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 2 produced item: 52
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 79 
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: 85 
+Wed Dec 25 16:12:53 2024
+: 4 
+Wed Dec 25 16:12:53 2024
+: 52 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Consumer 1 consumed item: 79
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: 85 
+Wed Dec 25 16:12:53 2024
+: 4 
+Wed Dec 25 16:12:53 2024
+: 52 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:53 2024
+: Producer 1 produced item: 55
+Wed Dec 25 16:12:53 2024
+: Buffer state: [
+Wed Dec 25 16:12:53 2024
+: 89 
+Wed Dec 25 16:12:53 2024
+: 85 
+Wed Dec 25 16:12:53 2024
+: 4 
+Wed Dec 25 16:12:53 2024
+: 52 
+Wed Dec 25 16:12:53 2024
+: 55 
+Wed Dec 25 16:12:53 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 2 consumed item: 89
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 85 
+Wed Dec 25 16:12:54 2024
+: 4 
+Wed Dec 25 16:12:54 2024
+: 52 
+Wed Dec 25 16:12:54 2024
+: 55 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 2 produced item: 100
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 85 
+Wed Dec 25 16:12:54 2024
+: 4 
+Wed Dec 25 16:12:54 2024
+: 52 
+Wed Dec 25 16:12:54 2024
+: 55 
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 1 consumed item: 85
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 4 
+Wed Dec 25 16:12:54 2024
+: 52 
+Wed Dec 25 16:12:54 2024
+: 55 
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 1 produced item: 33
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 4 
+Wed Dec 25 16:12:54 2024
+: 52 
+Wed Dec 25 16:12:54 2024
+: 55 
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 2 consumed item: 4
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 52 
+Wed Dec 25 16:12:54 2024
+: 55 
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 2 produced item: 61
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 52 
+Wed Dec 25 16:12:54 2024
+: 55 
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 1 consumed item: 52
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 55 
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 1 produced item: 77
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 55 
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 2 consumed item: 55
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 2 produced item: 69
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 100 
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: 69 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 1 consumed item: 100
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: 69 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 1 produced item: 40
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 33 
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: 69 
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 2 consumed item: 33
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: 69 
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 2 produced item: 13
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 61 
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: 69 
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: 13 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 1 consumed item: 61
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: 69 
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: 13 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 1 produced item: 27
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 77 
+Wed Dec 25 16:12:54 2024
+: 69 
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: 13 
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 2 consumed item: 77
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 69 
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: 13 
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 1 consumed item: 69
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: 13 
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 2 produced item: 87
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: 13 
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: 87 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 1 produced item: 95
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: 13 
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: 87 
+Wed Dec 25 16:12:54 2024
+: 95 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 2 consumed item: 40
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 13 
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: 87 
+Wed Dec 25 16:12:54 2024
+: 95 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Consumer 1 consumed item: 13
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: 87 
+Wed Dec 25 16:12:54 2024
+: 95 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 1 produced item: 96
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: 87 
+Wed Dec 25 16:12:54 2024
+: 95 
+Wed Dec 25 16:12:54 2024
+: 96 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:54 2024
+: Producer 2 produced item: 40
+Wed Dec 25 16:12:54 2024
+: Buffer state: [
+Wed Dec 25 16:12:54 2024
+: 27 
+Wed Dec 25 16:12:54 2024
+: 87 
+Wed Dec 25 16:12:54 2024
+: 95 
+Wed Dec 25 16:12:54 2024
+: 96 
+Wed Dec 25 16:12:54 2024
+: 40 
+Wed Dec 25 16:12:54 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 2 consumed item: 27
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 87 
+Wed Dec 25 16:12:55 2024
+: 95 
+Wed Dec 25 16:12:55 2024
+: 96 
+Wed Dec 25 16:12:55 2024
+: 40 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 1 consumed item: 87
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 95 
+Wed Dec 25 16:12:55 2024
+: 96 
+Wed Dec 25 16:12:55 2024
+: 40 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 1 produced item: 71
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 95 
+Wed Dec 25 16:12:55 2024
+: 96 
+Wed Dec 25 16:12:55 2024
+: 40 
+Wed Dec 25 16:12:55 2024
+: 71 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 2 produced item: 35
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 95 
+Wed Dec 25 16:12:55 2024
+: 96 
+Wed Dec 25 16:12:55 2024
+: 40 
+Wed Dec 25 16:12:55 2024
+: 71 
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 2 consumed item: 95
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 96 
+Wed Dec 25 16:12:55 2024
+: 40 
+Wed Dec 25 16:12:55 2024
+: 71 
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 1 consumed item: 96
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 40 
+Wed Dec 25 16:12:55 2024
+: 71 
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 1 produced item: 79
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 40 
+Wed Dec 25 16:12:55 2024
+: 71 
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: 79 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 2 produced item: 68
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 40 
+Wed Dec 25 16:12:55 2024
+: 71 
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: 79 
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 2 consumed item: 40
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 71 
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: 79 
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 1 produced item: 2
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 71 
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: 79 
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 1 consumed item: 71
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: 79 
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 2 produced item: 98
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 35 
+Wed Dec 25 16:12:55 2024
+: 79 
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 2 consumed item: 35
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 79 
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 1 produced item: 3
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 79 
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 1 consumed item: 79
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 2 produced item: 18
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 68 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 2 consumed item: 68
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 1 consumed item: 2
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 1 produced item: 93
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: 93 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 2 produced item: 53
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 98 
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: 93 
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 2 consumed item: 98
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: 93 
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 1 produced item: 57
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 3 
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: 93 
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: 57 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 1 consumed item: 3
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: 93 
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: 57 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 2 produced item: 2
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 18 
+Wed Dec 25 16:12:55 2024
+: 93 
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: 57 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 2 consumed item: 18
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 93 
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: 57 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 1 produced item: 81
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 93 
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: 57 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 81 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Consumer 1 consumed item: 93
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: 57 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 81 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:55 2024
+: Producer 2 produced item: 87
+Wed Dec 25 16:12:55 2024
+: Buffer state: [
+Wed Dec 25 16:12:55 2024
+: 53 
+Wed Dec 25 16:12:55 2024
+: 57 
+Wed Dec 25 16:12:55 2024
+: 2 
+Wed Dec 25 16:12:55 2024
+: 81 
+Wed Dec 25 16:12:55 2024
+: 87 
+Wed Dec 25 16:12:55 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 2 consumed item: 53
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 57 
+Wed Dec 25 16:12:56 2024
+: 2 
+Wed Dec 25 16:12:56 2024
+: 81 
+Wed Dec 25 16:12:56 2024
+: 87 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 1 produced item: 42
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 57 
+Wed Dec 25 16:12:56 2024
+: 2 
+Wed Dec 25 16:12:56 2024
+: 81 
+Wed Dec 25 16:12:56 2024
+: 87 
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 1 consumed item: 57
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 2 
+Wed Dec 25 16:12:56 2024
+: 81 
+Wed Dec 25 16:12:56 2024
+: 87 
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 2 produced item: 66
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 2 
+Wed Dec 25 16:12:56 2024
+: 81 
+Wed Dec 25 16:12:56 2024
+: 87 
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 2 consumed item: 2
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 81 
+Wed Dec 25 16:12:56 2024
+: 87 
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 1 produced item: 90
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 81 
+Wed Dec 25 16:12:56 2024
+: 87 
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 1 consumed item: 81
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 87 
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 2 produced item: 45
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 87 
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 2 consumed item: 87
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 1 produced item: 20
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 42 
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: 20 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 1 consumed item: 42
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: 20 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 2 produced item: 41
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 66 
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: 20 
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 2 consumed item: 66
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: 20 
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 1 produced item: 30
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 90 
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: 20 
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: 30 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 1 consumed item: 90
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: 20 
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: 30 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 2 produced item: 32
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 45 
+Wed Dec 25 16:12:56 2024
+: 20 
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: 30 
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 2 consumed item: 45
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 20 
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: 30 
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 1 consumed item: 20
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: 30 
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 2 produced item: 98
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: 30 
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: 98 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 1 produced item: 18
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 41 
+Wed Dec 25 16:12:56 2024
+: 30 
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: 98 
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 2 consumed item: 41
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 30 
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: 98 
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 1 consumed item: 30
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: 98 
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 1 produced item: 82
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: 98 
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: 82 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 2 produced item: 72
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 32 
+Wed Dec 25 16:12:56 2024
+: 98 
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: 82 
+Wed Dec 25 16:12:56 2024
+: 72 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 2 consumed item: 32
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 98 
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: 82 
+Wed Dec 25 16:12:56 2024
+: 72 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Consumer 1 consumed item: 98
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: 82 
+Wed Dec 25 16:12:56 2024
+: 72 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 2 produced item: 10
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: 82 
+Wed Dec 25 16:12:56 2024
+: 72 
+Wed Dec 25 16:12:56 2024
+: 10 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:56 2024
+: Producer 1 produced item: 76
+Wed Dec 25 16:12:56 2024
+: Buffer state: [
+Wed Dec 25 16:12:56 2024
+: 18 
+Wed Dec 25 16:12:56 2024
+: 82 
+Wed Dec 25 16:12:56 2024
+: 72 
+Wed Dec 25 16:12:56 2024
+: 10 
+Wed Dec 25 16:12:56 2024
+: 76 
+Wed Dec 25 16:12:56 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 1 consumed item: 18
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 82 
+Wed Dec 25 16:12:57 2024
+: 72 
+Wed Dec 25 16:12:57 2024
+: 10 
+Wed Dec 25 16:12:57 2024
+: 76 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 2 consumed item: 82
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 72 
+Wed Dec 25 16:12:57 2024
+: 10 
+Wed Dec 25 16:12:57 2024
+: 76 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 2 produced item: 28
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 72 
+Wed Dec 25 16:12:57 2024
+: 10 
+Wed Dec 25 16:12:57 2024
+: 76 
+Wed Dec 25 16:12:57 2024
+: 28 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 1 produced item: 68
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 72 
+Wed Dec 25 16:12:57 2024
+: 10 
+Wed Dec 25 16:12:57 2024
+: 76 
+Wed Dec 25 16:12:57 2024
+: 28 
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 1 consumed item: 72
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 10 
+Wed Dec 25 16:12:57 2024
+: 76 
+Wed Dec 25 16:12:57 2024
+: 28 
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 2 consumed item: 10
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 76 
+Wed Dec 25 16:12:57 2024
+: 28 
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 2 produced item: 57
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 76 
+Wed Dec 25 16:12:57 2024
+: 28 
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: 57 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 1 produced item: 98
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 76 
+Wed Dec 25 16:12:57 2024
+: 28 
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: 57 
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 1 consumed item: 76
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 28 
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: 57 
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 2 produced item: 54
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 28 
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: 57 
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: 54 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 2 consumed item: 28
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: 57 
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: 54 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 1 produced item: 87
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 68 
+Wed Dec 25 16:12:57 2024
+: 57 
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: 54 
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 1 consumed item: 68
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 57 
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: 54 
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 2 produced item: 66
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 57 
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: 54 
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 2 consumed item: 57
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: 54 
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 1 produced item: 7
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 98 
+Wed Dec 25 16:12:57 2024
+: 54 
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 1 consumed item: 98
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 54 
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 2 consumed item: 54
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 2 produced item: 84
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: 84 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 1 produced item: 20
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 87 
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: 84 
+Wed Dec 25 16:12:57 2024
+: 20 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 1 consumed item: 87
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: 84 
+Wed Dec 25 16:12:57 2024
+: 20 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 2 produced item: 25
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 66 
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: 84 
+Wed Dec 25 16:12:57 2024
+: 20 
+Wed Dec 25 16:12:57 2024
+: 25 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Consumer 2 consumed item: 66
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: 84 
+Wed Dec 25 16:12:57 2024
+: 20 
+Wed Dec 25 16:12:57 2024
+: 25 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:57 2024
+: Producer 1 produced item: 29
+Wed Dec 25 16:12:57 2024
+: Buffer state: [
+Wed Dec 25 16:12:57 2024
+: 7 
+Wed Dec 25 16:12:57 2024
+: 84 
+Wed Dec 25 16:12:57 2024
+: 20 
+Wed Dec 25 16:12:57 2024
+: 25 
+Wed Dec 25 16:12:57 2024
+: 29 
+Wed Dec 25 16:12:57 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 1 consumed item: 7
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 84 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 25 
+Wed Dec 25 16:12:58 2024
+: 29 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 2 produced item: 72
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 84 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 25 
+Wed Dec 25 16:12:58 2024
+: 29 
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 2 consumed item: 84
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 25 
+Wed Dec 25 16:12:58 2024
+: 29 
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 1 produced item: 33
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 25 
+Wed Dec 25 16:12:58 2024
+: 29 
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 1 consumed item: 20
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 25 
+Wed Dec 25 16:12:58 2024
+: 29 
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 2 produced item: 30
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 25 
+Wed Dec 25 16:12:58 2024
+: 29 
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: 30 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 2 consumed item: 25
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 29 
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: 30 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 1 produced item: 4
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 29 
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: 30 
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 1 consumed item: 29
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: 30 
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 2 produced item: 20
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 72 
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: 30 
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 2 consumed item: 72
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: 30 
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 1 produced item: 71
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 33 
+Wed Dec 25 16:12:58 2024
+: 30 
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 1 consumed item: 33
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 30 
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 2 consumed item: 30
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 1 produced item: 9
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: 9 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 2 produced item: 69
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 4 
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: 9 
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 1 consumed item: 4
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 20 
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: 9 
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 2 consumed item: 20
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: 9 
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 1 produced item: 16
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: 9 
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: 16 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 2 produced item: 41
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 71 
+Wed Dec 25 16:12:58 2024
+: 9 
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: 16 
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 1 consumed item: 71
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 9 
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: 16 
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 2 consumed item: 9
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: 16 
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 2 produced item: 97
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: 16 
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: 97 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 1 produced item: 50
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 69 
+Wed Dec 25 16:12:58 2024
+: 16 
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: 97 
+Wed Dec 25 16:12:58 2024
+: 50 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 1 consumed item: 69
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 16 
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: 97 
+Wed Dec 25 16:12:58 2024
+: 50 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 2 produced item: 24
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 16 
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: 97 
+Wed Dec 25 16:12:58 2024
+: 50 
+Wed Dec 25 16:12:58 2024
+: 24 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Consumer 2 consumed item: 16
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: 97 
+Wed Dec 25 16:12:58 2024
+: 50 
+Wed Dec 25 16:12:58 2024
+: 24 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:58 2024
+: Producer 1 produced item: 19
+Wed Dec 25 16:12:58 2024
+: Buffer state: [
+Wed Dec 25 16:12:58 2024
+: 41 
+Wed Dec 25 16:12:58 2024
+: 97 
+Wed Dec 25 16:12:58 2024
+: 50 
+Wed Dec 25 16:12:58 2024
+: 24 
+Wed Dec 25 16:12:58 2024
+: 19 
+Wed Dec 25 16:12:58 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 1 consumed item: 41
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 97 
+Wed Dec 25 16:12:59 2024
+: 50 
+Wed Dec 25 16:12:59 2024
+: 24 
+Wed Dec 25 16:12:59 2024
+: 19 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 2 produced item: 46
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 97 
+Wed Dec 25 16:12:59 2024
+: 50 
+Wed Dec 25 16:12:59 2024
+: 24 
+Wed Dec 25 16:12:59 2024
+: 19 
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 2 consumed item: 97
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 50 
+Wed Dec 25 16:12:59 2024
+: 24 
+Wed Dec 25 16:12:59 2024
+: 19 
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 1 produced item: 47
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 50 
+Wed Dec 25 16:12:59 2024
+: 24 
+Wed Dec 25 16:12:59 2024
+: 19 
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 1 consumed item: 50
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 24 
+Wed Dec 25 16:12:59 2024
+: 19 
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 2 produced item: 52
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 24 
+Wed Dec 25 16:12:59 2024
+: 19 
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 2 consumed item: 24
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 19 
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 1 produced item: 22
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 19 
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 1 consumed item: 19
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 2 produced item: 56
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 46 
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 2 consumed item: 46
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 1 produced item: 80
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 47 
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 1 consumed item: 47
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 2 produced item: 89
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 52 
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 2 consumed item: 52
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 1 produced item: 65
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 22 
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 1 consumed item: 22
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 2 produced item: 29
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 56 
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 2 consumed item: 56
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 1 produced item: 42
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 80 
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 1 consumed item: 80
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 2 produced item: 51
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 89 
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: 51 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 2 consumed item: 89
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: 51 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 1 produced item: 94
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 65 
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: 51 
+Wed Dec 25 16:12:59 2024
+: 94 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 1 consumed item: 65
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: 51 
+Wed Dec 25 16:12:59 2024
+: 94 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 2 produced item: 1
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 29 
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: 51 
+Wed Dec 25 16:12:59 2024
+: 94 
+Wed Dec 25 16:12:59 2024
+: 1 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Consumer 2 consumed item: 29
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: 51 
+Wed Dec 25 16:12:59 2024
+: 94 
+Wed Dec 25 16:12:59 2024
+: 1 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:12:59 2024
+: Producer 1 produced item: 35
+Wed Dec 25 16:12:59 2024
+: Buffer state: [
+Wed Dec 25 16:12:59 2024
+: 42 
+Wed Dec 25 16:12:59 2024
+: 51 
+Wed Dec 25 16:12:59 2024
+: 94 
+Wed Dec 25 16:12:59 2024
+: 1 
+Wed Dec 25 16:12:59 2024
+: 35 
+Wed Dec 25 16:12:59 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 1 consumed item: 42
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 51 
+Wed Dec 25 16:13:00 2024
+: 94 
+Wed Dec 25 16:13:00 2024
+: 1 
+Wed Dec 25 16:13:00 2024
+: 35 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 2 consumed item: 51
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 94 
+Wed Dec 25 16:13:00 2024
+: 1 
+Wed Dec 25 16:13:00 2024
+: 35 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 2 produced item: 65
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 94 
+Wed Dec 25 16:13:00 2024
+: 1 
+Wed Dec 25 16:13:00 2024
+: 35 
+Wed Dec 25 16:13:00 2024
+: 65 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 1 produced item: 25
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 94 
+Wed Dec 25 16:13:00 2024
+: 1 
+Wed Dec 25 16:13:00 2024
+: 35 
+Wed Dec 25 16:13:00 2024
+: 65 
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 1 consumed item: 94
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 1 
+Wed Dec 25 16:13:00 2024
+: 35 
+Wed Dec 25 16:13:00 2024
+: 65 
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 2 consumed item: 1
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 35 
+Wed Dec 25 16:13:00 2024
+: 65 
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 2 produced item: 15
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 35 
+Wed Dec 25 16:13:00 2024
+: 65 
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: 15 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 1 produced item: 88
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 35 
+Wed Dec 25 16:13:00 2024
+: 65 
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: 15 
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 1 consumed item: 35
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 65 
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: 15 
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 2 consumed item: 65
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: 15 
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 1 produced item: 44
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: 15 
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: 44 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 2 produced item: 57
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 25 
+Wed Dec 25 16:13:00 2024
+: 15 
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: 44 
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 1 consumed item: 25
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 15 
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: 44 
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 2 consumed item: 15
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: 44 
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 1 produced item: 92
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: 44 
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: 92 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 2 produced item: 28
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 88 
+Wed Dec 25 16:13:00 2024
+: 44 
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: 92 
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 1 consumed item: 88
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 44 
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: 92 
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 2 consumed item: 44
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: 92 
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 1 produced item: 66
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: 92 
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: 66 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 2 produced item: 60
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 57 
+Wed Dec 25 16:13:00 2024
+: 92 
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: 66 
+Wed Dec 25 16:13:00 2024
+: 60 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 1 consumed item: 57
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 92 
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: 66 
+Wed Dec 25 16:13:00 2024
+: 60 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 1 produced item: 37
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 92 
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: 66 
+Wed Dec 25 16:13:00 2024
+: 60 
+Wed Dec 25 16:13:00 2024
+: 37 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Consumer 2 consumed item: 92
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: 66 
+Wed Dec 25 16:13:00 2024
+: 60 
+Wed Dec 25 16:13:00 2024
+: 37 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:00 2024
+: Producer 2 produced item: 33
+Wed Dec 25 16:13:00 2024
+: Buffer state: [
+Wed Dec 25 16:13:00 2024
+: 28 
+Wed Dec 25 16:13:00 2024
+: 66 
+Wed Dec 25 16:13:00 2024
+: 60 
+Wed Dec 25 16:13:00 2024
+: 37 
+Wed Dec 25 16:13:00 2024
+: 33 
+Wed Dec 25 16:13:00 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 1 consumed item: 28
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 66 
+Wed Dec 25 16:13:01 2024
+: 60 
+Wed Dec 25 16:13:01 2024
+: 37 
+Wed Dec 25 16:13:01 2024
+: 33 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 1 produced item: 52
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 66 
+Wed Dec 25 16:13:01 2024
+: 60 
+Wed Dec 25 16:13:01 2024
+: 37 
+Wed Dec 25 16:13:01 2024
+: 33 
+Wed Dec 25 16:13:01 2024
+: 52 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 2 consumed item: 66
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 60 
+Wed Dec 25 16:13:01 2024
+: 37 
+Wed Dec 25 16:13:01 2024
+: 33 
+Wed Dec 25 16:13:01 2024
+: 52 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 2 produced item: 38
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 60 
+Wed Dec 25 16:13:01 2024
+: 37 
+Wed Dec 25 16:13:01 2024
+: 33 
+Wed Dec 25 16:13:01 2024
+: 52 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 1 consumed item: 60
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 37 
+Wed Dec 25 16:13:01 2024
+: 33 
+Wed Dec 25 16:13:01 2024
+: 52 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 1 produced item: 29
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 37 
+Wed Dec 25 16:13:01 2024
+: 33 
+Wed Dec 25 16:13:01 2024
+: 52 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 29 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 2 consumed item: 37
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 33 
+Wed Dec 25 16:13:01 2024
+: 52 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 29 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 2 produced item: 76
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 33 
+Wed Dec 25 16:13:01 2024
+: 52 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 29 
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 1 consumed item: 33
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 52 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 29 
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 2 consumed item: 52
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 29 
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 1 produced item: 8
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 29 
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: 8 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 2 produced item: 75
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 29 
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: 8 
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 1 consumed item: 38
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 29 
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: 8 
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 2 consumed item: 29
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: 8 
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 2 produced item: 59
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: 8 
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: 59 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 1 produced item: 22
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 76 
+Wed Dec 25 16:13:01 2024
+: 8 
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: 59 
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 1 consumed item: 76
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 8 
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: 59 
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 2 consumed item: 8
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: 59 
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 2 produced item: 96
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: 59 
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: 96 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 1 produced item: 30
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 75 
+Wed Dec 25 16:13:01 2024
+: 59 
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: 96 
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 1 consumed item: 75
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 59 
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: 96 
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 2 consumed item: 59
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: 96 
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 1 produced item: 38
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: 96 
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 2 produced item: 36
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 22 
+Wed Dec 25 16:13:01 2024
+: 96 
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 36 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 1 consumed item: 22
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 96 
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 36 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Consumer 2 consumed item: 96
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 36 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 2 produced item: 19
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 36 
+Wed Dec 25 16:13:01 2024
+: 19 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:01 2024
+: Producer 1 produced item: 94
+Wed Dec 25 16:13:01 2024
+: Buffer state: [
+Wed Dec 25 16:13:01 2024
+: 30 
+Wed Dec 25 16:13:01 2024
+: 38 
+Wed Dec 25 16:13:01 2024
+: 36 
+Wed Dec 25 16:13:01 2024
+: 19 
+Wed Dec 25 16:13:01 2024
+: 94 
+Wed Dec 25 16:13:01 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 1 consumed item: 30
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 38 
+Wed Dec 25 16:13:02 2024
+: 36 
+Wed Dec 25 16:13:02 2024
+: 19 
+Wed Dec 25 16:13:02 2024
+: 94 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 2 consumed item: 38
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 36 
+Wed Dec 25 16:13:02 2024
+: 19 
+Wed Dec 25 16:13:02 2024
+: 94 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 2 produced item: 29
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 36 
+Wed Dec 25 16:13:02 2024
+: 19 
+Wed Dec 25 16:13:02 2024
+: 94 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 1 produced item: 44
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 36 
+Wed Dec 25 16:13:02 2024
+: 19 
+Wed Dec 25 16:13:02 2024
+: 94 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 1 consumed item: 36
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 19 
+Wed Dec 25 16:13:02 2024
+: 94 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 2 produced item: 12
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 19 
+Wed Dec 25 16:13:02 2024
+: 94 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 2 consumed item: 19
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 94 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 1 produced item: 29
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 94 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 1 consumed item: 94
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 2 produced item: 30
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 30 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 2 consumed item: 29
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 30 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 1 produced item: 77
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 30 
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 1 consumed item: 44
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 30 
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 2 produced item: 5
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 12 
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 30 
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 2 consumed item: 12
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 30 
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 1 produced item: 44
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 29 
+Wed Dec 25 16:13:02 2024
+: 30 
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 1 consumed item: 29
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 30 
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 2 consumed item: 30
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 1 produced item: 14
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 14 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 2 produced item: 64
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 77 
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 14 
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 1 consumed item: 77
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 14 
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 2 consumed item: 5
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 14 
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 1 produced item: 39
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 14 
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: 39 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 2 produced item: 7
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 44 
+Wed Dec 25 16:13:02 2024
+: 14 
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: 39 
+Wed Dec 25 16:13:02 2024
+: 7 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 1 consumed item: 44
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 14 
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: 39 
+Wed Dec 25 16:13:02 2024
+: 7 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 1 produced item: 41
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 14 
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: 39 
+Wed Dec 25 16:13:02 2024
+: 7 
+Wed Dec 25 16:13:02 2024
+: 41 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Consumer 2 consumed item: 14
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: 39 
+Wed Dec 25 16:13:02 2024
+: 7 
+Wed Dec 25 16:13:02 2024
+: 41 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:02 2024
+: Producer 2 produced item: 5
+Wed Dec 25 16:13:02 2024
+: Buffer state: [
+Wed Dec 25 16:13:02 2024
+: 64 
+Wed Dec 25 16:13:02 2024
+: 39 
+Wed Dec 25 16:13:02 2024
+: 7 
+Wed Dec 25 16:13:02 2024
+: 41 
+Wed Dec 25 16:13:02 2024
+: 5 
+Wed Dec 25 16:13:02 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 1 consumed item: 64
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 39 
+Wed Dec 25 16:13:03 2024
+: 7 
+Wed Dec 25 16:13:03 2024
+: 41 
+Wed Dec 25 16:13:03 2024
+: 5 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 1 produced item: 19
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 39 
+Wed Dec 25 16:13:03 2024
+: 7 
+Wed Dec 25 16:13:03 2024
+: 41 
+Wed Dec 25 16:13:03 2024
+: 5 
+Wed Dec 25 16:13:03 2024
+: 19 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 2 consumed item: 39
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 7 
+Wed Dec 25 16:13:03 2024
+: 41 
+Wed Dec 25 16:13:03 2024
+: 5 
+Wed Dec 25 16:13:03 2024
+: 19 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 2 produced item: 29
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 7 
+Wed Dec 25 16:13:03 2024
+: 41 
+Wed Dec 25 16:13:03 2024
+: 5 
+Wed Dec 25 16:13:03 2024
+: 19 
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 2 consumed item: 7
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 41 
+Wed Dec 25 16:13:03 2024
+: 5 
+Wed Dec 25 16:13:03 2024
+: 19 
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 1 consumed item: 41
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 5 
+Wed Dec 25 16:13:03 2024
+: 19 
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 1 produced item: 89
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 5 
+Wed Dec 25 16:13:03 2024
+: 19 
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: 89 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 2 produced item: 70
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 5 
+Wed Dec 25 16:13:03 2024
+: 19 
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: 89 
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 2 consumed item: 5
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 19 
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: 89 
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 1 consumed item: 19
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: 89 
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 2 produced item: 18
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: 89 
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 1 produced item: 18
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 29 
+Wed Dec 25 16:13:03 2024
+: 89 
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 2 consumed item: 29
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 89 
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 2 produced item: 97
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 89 
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 97 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 1 consumed item: 89
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 97 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 1 produced item: 25
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 70 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 97 
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 2 consumed item: 70
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 97 
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 2 produced item: 44
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 97 
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: 44 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 1 consumed item: 18
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 97 
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: 44 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 1 produced item: 71
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 18 
+Wed Dec 25 16:13:03 2024
+: 97 
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: 44 
+Wed Dec 25 16:13:03 2024
+: 71 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 2 consumed item: 18
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 97 
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: 44 
+Wed Dec 25 16:13:03 2024
+: 71 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Consumer 1 consumed item: 97
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: 44 
+Wed Dec 25 16:13:03 2024
+: 71 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 2 produced item: 84
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: 44 
+Wed Dec 25 16:13:03 2024
+: 71 
+Wed Dec 25 16:13:03 2024
+: 84 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:03 2024
+: Producer 1 produced item: 91
+Wed Dec 25 16:13:03 2024
+: Buffer state: [
+Wed Dec 25 16:13:03 2024
+: 25 
+Wed Dec 25 16:13:03 2024
+: 44 
+Wed Dec 25 16:13:03 2024
+: 71 
+Wed Dec 25 16:13:03 2024
+: 84 
+Wed Dec 25 16:13:03 2024
+: 91 
+Wed Dec 25 16:13:03 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 2 consumed item: 25
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 44 
+Wed Dec 25 16:13:04 2024
+: 71 
+Wed Dec 25 16:13:04 2024
+: 84 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 1 consumed item: 44
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 71 
+Wed Dec 25 16:13:04 2024
+: 84 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 1 produced item: 73
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 71 
+Wed Dec 25 16:13:04 2024
+: 84 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 73 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 2 produced item: 100
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 71 
+Wed Dec 25 16:13:04 2024
+: 84 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 73 
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 2 consumed item: 71
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 84 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 73 
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 1 consumed item: 84
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 73 
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 1 produced item: 26
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 73 
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: 26 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 2 produced item: 45
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 73 
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: 26 
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 2 consumed item: 91
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 73 
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: 26 
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 1 consumed item: 73
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: 26 
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 1 produced item: 91
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: 26 
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 2 produced item: 6
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 100 
+Wed Dec 25 16:13:04 2024
+: 26 
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 2 consumed item: 100
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 26 
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 1 consumed item: 26
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 1 produced item: 40
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: 40 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 2 produced item: 55
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 45 
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: 40 
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 2 consumed item: 45
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 91 
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: 40 
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 1 consumed item: 91
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: 40 
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 1 produced item: 87
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: 40 
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: 87 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 2 produced item: 70
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 6 
+Wed Dec 25 16:13:04 2024
+: 40 
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: 87 
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 2 consumed item: 6
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 40 
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: 87 
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 1 consumed item: 40
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: 87 
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 1 produced item: 83
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: 87 
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: 83 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 2 produced item: 43
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 55 
+Wed Dec 25 16:13:04 2024
+: 87 
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: 83 
+Wed Dec 25 16:13:04 2024
+: 43 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 2 consumed item: 55
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 87 
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: 83 
+Wed Dec 25 16:13:04 2024
+: 43 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Consumer 1 consumed item: 87
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: 83 
+Wed Dec 25 16:13:04 2024
+: 43 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 1 produced item: 65
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: 83 
+Wed Dec 25 16:13:04 2024
+: 43 
+Wed Dec 25 16:13:04 2024
+: 65 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:04 2024
+: Producer 2 produced item: 98
+Wed Dec 25 16:13:04 2024
+: Buffer state: [
+Wed Dec 25 16:13:04 2024
+: 70 
+Wed Dec 25 16:13:04 2024
+: 83 
+Wed Dec 25 16:13:04 2024
+: 43 
+Wed Dec 25 16:13:04 2024
+: 65 
+Wed Dec 25 16:13:04 2024
+: 98 
+Wed Dec 25 16:13:04 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 2 consumed item: 70
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 83 
+Wed Dec 25 16:13:05 2024
+: 43 
+Wed Dec 25 16:13:05 2024
+: 65 
+Wed Dec 25 16:13:05 2024
+: 98 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 1 consumed item: 83
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 43 
+Wed Dec 25 16:13:05 2024
+: 65 
+Wed Dec 25 16:13:05 2024
+: 98 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 2 produced item: 56
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 43 
+Wed Dec 25 16:13:05 2024
+: 65 
+Wed Dec 25 16:13:05 2024
+: 98 
+Wed Dec 25 16:13:05 2024
+: 56 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 1 produced item: 8
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 43 
+Wed Dec 25 16:13:05 2024
+: 65 
+Wed Dec 25 16:13:05 2024
+: 98 
+Wed Dec 25 16:13:05 2024
+: 56 
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 2 consumed item: 43
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 65 
+Wed Dec 25 16:13:05 2024
+: 98 
+Wed Dec 25 16:13:05 2024
+: 56 
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 1 consumed item: 65
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 98 
+Wed Dec 25 16:13:05 2024
+: 56 
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 2 produced item: 5
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 98 
+Wed Dec 25 16:13:05 2024
+: 56 
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: 5 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 1 produced item: 49
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 98 
+Wed Dec 25 16:13:05 2024
+: 56 
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: 5 
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 2 consumed item: 98
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 56 
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: 5 
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 2 produced item: 12
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 56 
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: 5 
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 1 consumed item: 56
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: 5 
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 1 produced item: 23
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 8 
+Wed Dec 25 16:13:05 2024
+: 5 
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 2 consumed item: 8
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 5 
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 1 consumed item: 5
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 2 produced item: 29
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: 29 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 1 produced item: 100
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 49 
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: 29 
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 2 consumed item: 49
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: 29 
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 2 produced item: 44
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 12 
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: 29 
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: 44 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 1 consumed item: 12
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: 29 
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: 44 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 1 produced item: 47
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 23 
+Wed Dec 25 16:13:05 2024
+: 29 
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: 44 
+Wed Dec 25 16:13:05 2024
+: 47 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 2 consumed item: 23
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 29 
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: 44 
+Wed Dec 25 16:13:05 2024
+: 47 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Consumer 1 consumed item: 29
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: 44 
+Wed Dec 25 16:13:05 2024
+: 47 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 2 produced item: 69
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: 44 
+Wed Dec 25 16:13:05 2024
+: 47 
+Wed Dec 25 16:13:05 2024
+: 69 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:05 2024
+: Producer 1 produced item: 41
+Wed Dec 25 16:13:05 2024
+: Buffer state: [
+Wed Dec 25 16:13:05 2024
+: 100 
+Wed Dec 25 16:13:05 2024
+: 44 
+Wed Dec 25 16:13:05 2024
+: 47 
+Wed Dec 25 16:13:05 2024
+: 69 
+Wed Dec 25 16:13:05 2024
+: 41 
+Wed Dec 25 16:13:05 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 2 consumed item: 100
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 44 
+Wed Dec 25 16:13:06 2024
+: 47 
+Wed Dec 25 16:13:06 2024
+: 69 
+Wed Dec 25 16:13:06 2024
+: 41 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 1 consumed item: 44
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 47 
+Wed Dec 25 16:13:06 2024
+: 69 
+Wed Dec 25 16:13:06 2024
+: 41 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 1 produced item: 12
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 47 
+Wed Dec 25 16:13:06 2024
+: 69 
+Wed Dec 25 16:13:06 2024
+: 41 
+Wed Dec 25 16:13:06 2024
+: 12 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 2 produced item: 23
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 47 
+Wed Dec 25 16:13:06 2024
+: 69 
+Wed Dec 25 16:13:06 2024
+: 41 
+Wed Dec 25 16:13:06 2024
+: 12 
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 1 consumed item: 47
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 69 
+Wed Dec 25 16:13:06 2024
+: 41 
+Wed Dec 25 16:13:06 2024
+: 12 
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 2 consumed item: 69
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 41 
+Wed Dec 25 16:13:06 2024
+: 12 
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 1 produced item: 11
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 41 
+Wed Dec 25 16:13:06 2024
+: 12 
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: 11 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 2 produced item: 6
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 41 
+Wed Dec 25 16:13:06 2024
+: 12 
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: 11 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 2 consumed item: 41
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 12 
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: 11 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 1 produced item: 2
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 12 
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: 11 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 2 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 1 consumed item: 12
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: 11 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 2 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 2 produced item: 62
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: 11 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 2 
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 2 consumed item: 23
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 11 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 2 
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 1 consumed item: 11
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 2 
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 2 produced item: 79
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 2 
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: 79 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 1 produced item: 31
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 2 
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: 79 
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 2 consumed item: 6
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 2 
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: 79 
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 1 consumed item: 2
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: 79 
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 2 produced item: 6
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: 79 
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 1 produced item: 21
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 62 
+Wed Dec 25 16:13:06 2024
+: 79 
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 2 consumed item: 62
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 79 
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 1 consumed item: 79
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 2 produced item: 37
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: 37 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 1 produced item: 45
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 31 
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: 37 
+Wed Dec 25 16:13:06 2024
+: 45 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 2 consumed item: 31
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 6 
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: 37 
+Wed Dec 25 16:13:06 2024
+: 45 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Consumer 1 consumed item: 6
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: 37 
+Wed Dec 25 16:13:06 2024
+: 45 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 2 produced item: 27
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: 37 
+Wed Dec 25 16:13:06 2024
+: 45 
+Wed Dec 25 16:13:06 2024
+: 27 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:06 2024
+: Producer 1 produced item: 23
+Wed Dec 25 16:13:06 2024
+: Buffer state: [
+Wed Dec 25 16:13:06 2024
+: 21 
+Wed Dec 25 16:13:06 2024
+: 37 
+Wed Dec 25 16:13:06 2024
+: 45 
+Wed Dec 25 16:13:06 2024
+: 27 
+Wed Dec 25 16:13:06 2024
+: 23 
+Wed Dec 25 16:13:06 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 2 consumed item: 21
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 37 
+Wed Dec 25 16:13:07 2024
+: 45 
+Wed Dec 25 16:13:07 2024
+: 27 
+Wed Dec 25 16:13:07 2024
+: 23 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 1 consumed item: 37
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 45 
+Wed Dec 25 16:13:07 2024
+: 27 
+Wed Dec 25 16:13:07 2024
+: 23 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 2 produced item: 66
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 45 
+Wed Dec 25 16:13:07 2024
+: 27 
+Wed Dec 25 16:13:07 2024
+: 23 
+Wed Dec 25 16:13:07 2024
+: 66 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 1 produced item: 9
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 45 
+Wed Dec 25 16:13:07 2024
+: 27 
+Wed Dec 25 16:13:07 2024
+: 23 
+Wed Dec 25 16:13:07 2024
+: 66 
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 2 consumed item: 45
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 27 
+Wed Dec 25 16:13:07 2024
+: 23 
+Wed Dec 25 16:13:07 2024
+: 66 
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 1 consumed item: 27
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 23 
+Wed Dec 25 16:13:07 2024
+: 66 
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 2 produced item: 17
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 23 
+Wed Dec 25 16:13:07 2024
+: 66 
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: 17 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 1 produced item: 83
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 23 
+Wed Dec 25 16:13:07 2024
+: 66 
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: 17 
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 2 consumed item: 23
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 66 
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: 17 
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 1 consumed item: 66
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: 17 
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 2 produced item: 59
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: 17 
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: 59 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 1 produced item: 25
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 9 
+Wed Dec 25 16:13:07 2024
+: 17 
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: 59 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 2 consumed item: 9
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 17 
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: 59 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 1 consumed item: 17
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: 59 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 2 produced item: 38
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: 59 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 38 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 1 produced item: 63
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 83 
+Wed Dec 25 16:13:07 2024
+: 59 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 38 
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 2 consumed item: 83
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 59 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 38 
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 1 consumed item: 59
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 38 
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 2 produced item: 25
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 38 
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 1 produced item: 1
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 38 
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 2 consumed item: 25
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 38 
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 1 consumed item: 38
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 2 produced item: 37
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: 37 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 1 produced item: 53
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 63 
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: 37 
+Wed Dec 25 16:13:07 2024
+: 53 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 2 consumed item: 63
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: 37 
+Wed Dec 25 16:13:07 2024
+: 53 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 2 produced item: 100
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 25 
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: 37 
+Wed Dec 25 16:13:07 2024
+: 53 
+Wed Dec 25 16:13:07 2024
+: 100 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Consumer 1 consumed item: 25
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: 37 
+Wed Dec 25 16:13:07 2024
+: 53 
+Wed Dec 25 16:13:07 2024
+: 100 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:07 2024
+: Producer 1 produced item: 80
+Wed Dec 25 16:13:07 2024
+: Buffer state: [
+Wed Dec 25 16:13:07 2024
+: 1 
+Wed Dec 25 16:13:07 2024
+: 37 
+Wed Dec 25 16:13:07 2024
+: 53 
+Wed Dec 25 16:13:07 2024
+: 100 
+Wed Dec 25 16:13:07 2024
+: 80 
+Wed Dec 25 16:13:07 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 2 consumed item: 1
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 37 
+Wed Dec 25 16:13:08 2024
+: 53 
+Wed Dec 25 16:13:08 2024
+: 100 
+Wed Dec 25 16:13:08 2024
+: 80 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 2 produced item: 51
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 37 
+Wed Dec 25 16:13:08 2024
+: 53 
+Wed Dec 25 16:13:08 2024
+: 100 
+Wed Dec 25 16:13:08 2024
+: 80 
+Wed Dec 25 16:13:08 2024
+: 51 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 1 consumed item: 37
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 53 
+Wed Dec 25 16:13:08 2024
+: 100 
+Wed Dec 25 16:13:08 2024
+: 80 
+Wed Dec 25 16:13:08 2024
+: 51 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 1 produced item: 69
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 53 
+Wed Dec 25 16:13:08 2024
+: 100 
+Wed Dec 25 16:13:08 2024
+: 80 
+Wed Dec 25 16:13:08 2024
+: 51 
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 2 consumed item: 53
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 100 
+Wed Dec 25 16:13:08 2024
+: 80 
+Wed Dec 25 16:13:08 2024
+: 51 
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 1 consumed item: 100
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 80 
+Wed Dec 25 16:13:08 2024
+: 51 
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 2 produced item: 72
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 80 
+Wed Dec 25 16:13:08 2024
+: 51 
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: 72 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 1 produced item: 74
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 80 
+Wed Dec 25 16:13:08 2024
+: 51 
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: 72 
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 2 consumed item: 80
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 51 
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: 72 
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 1 consumed item: 51
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: 72 
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 2 produced item: 32
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: 72 
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: 32 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 1 produced item: 82
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 69 
+Wed Dec 25 16:13:08 2024
+: 72 
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: 32 
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 2 consumed item: 69
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 72 
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: 32 
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 1 consumed item: 72
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: 32 
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 2 produced item: 31
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: 32 
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: 31 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 1 produced item: 34
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 74 
+Wed Dec 25 16:13:08 2024
+: 32 
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: 31 
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 2 consumed item: 74
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 32 
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: 31 
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 1 consumed item: 32
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: 31 
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 1 produced item: 61
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: 31 
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: 61 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 2 produced item: 95
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 82 
+Wed Dec 25 16:13:08 2024
+: 31 
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: 61 
+Wed Dec 25 16:13:08 2024
+: 95 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 2 consumed item: 82
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 31 
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: 61 
+Wed Dec 25 16:13:08 2024
+: 95 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Consumer 1 consumed item: 31
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: 61 
+Wed Dec 25 16:13:08 2024
+: 95 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 2 produced item: 100
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: 61 
+Wed Dec 25 16:13:08 2024
+: 95 
+Wed Dec 25 16:13:08 2024
+: 100 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:08 2024
+: Producer 1 produced item: 64
+Wed Dec 25 16:13:08 2024
+: Buffer state: [
+Wed Dec 25 16:13:08 2024
+: 34 
+Wed Dec 25 16:13:08 2024
+: 61 
+Wed Dec 25 16:13:08 2024
+: 95 
+Wed Dec 25 16:13:08 2024
+: 100 
+Wed Dec 25 16:13:08 2024
+: 64 
+Wed Dec 25 16:13:08 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 1 consumed item: 34
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 61 
+Wed Dec 25 16:13:09 2024
+: 95 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 64 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 2 consumed item: 61
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 95 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 64 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 1 produced item: 100
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 95 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 64 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 2 produced item: 82
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 95 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 64 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 2 consumed item: 95
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 64 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 1 consumed item: 100
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 64 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 1 produced item: 97
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 64 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: 97 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 2 produced item: 60
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 64 
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: 97 
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 2 consumed item: 64
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 100 
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: 97 
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 1 consumed item: 100
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: 97 
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 1 produced item: 74
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: 97 
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: 74 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 2 produced item: 14
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 82 
+Wed Dec 25 16:13:09 2024
+: 97 
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: 74 
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 2 consumed item: 82
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 97 
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: 74 
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 1 consumed item: 97
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: 74 
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 1 produced item: 69
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: 74 
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: 69 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 2 produced item: 91
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 60 
+Wed Dec 25 16:13:09 2024
+: 74 
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: 69 
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 1 consumed item: 60
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 74 
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: 69 
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 2 consumed item: 74
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: 69 
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 1 produced item: 96
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: 69 
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: 96 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 2 produced item: 27
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 14 
+Wed Dec 25 16:13:09 2024
+: 69 
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: 96 
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 2 consumed item: 14
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 69 
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: 96 
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 1 consumed item: 69
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: 96 
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 1 produced item: 67
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: 96 
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: 67 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 2 produced item: 85
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: 96 
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: 67 
+Wed Dec 25 16:13:09 2024
+: 85 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 1 consumed item: 91
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 96 
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: 67 
+Wed Dec 25 16:13:09 2024
+: 85 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Consumer 2 consumed item: 96
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: 67 
+Wed Dec 25 16:13:09 2024
+: 85 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 1 produced item: 41
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: 67 
+Wed Dec 25 16:13:09 2024
+: 85 
+Wed Dec 25 16:13:09 2024
+: 41 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:09 2024
+: Producer 2 produced item: 91
+Wed Dec 25 16:13:09 2024
+: Buffer state: [
+Wed Dec 25 16:13:09 2024
+: 27 
+Wed Dec 25 16:13:09 2024
+: 67 
+Wed Dec 25 16:13:09 2024
+: 85 
+Wed Dec 25 16:13:09 2024
+: 41 
+Wed Dec 25 16:13:09 2024
+: 91 
+Wed Dec 25 16:13:09 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 1 consumed item: 27
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 67 
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 41 
+Wed Dec 25 16:13:10 2024
+: 91 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 2 consumed item: 67
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 41 
+Wed Dec 25 16:13:10 2024
+: 91 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 1 produced item: 77
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 41 
+Wed Dec 25 16:13:10 2024
+: 91 
+Wed Dec 25 16:13:10 2024
+: 77 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 2 produced item: 85
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 41 
+Wed Dec 25 16:13:10 2024
+: 91 
+Wed Dec 25 16:13:10 2024
+: 77 
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 1 consumed item: 85
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 41 
+Wed Dec 25 16:13:10 2024
+: 91 
+Wed Dec 25 16:13:10 2024
+: 77 
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 2 consumed item: 41
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 91 
+Wed Dec 25 16:13:10 2024
+: 77 
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 1 produced item: 43
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 91 
+Wed Dec 25 16:13:10 2024
+: 77 
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 43 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 2 produced item: 37
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 91 
+Wed Dec 25 16:13:10 2024
+: 77 
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 43 
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 2 consumed item: 91
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 77 
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 43 
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 1 consumed item: 77
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 43 
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 1 produced item: 8
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 43 
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: 8 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 2 produced item: 46
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 85 
+Wed Dec 25 16:13:10 2024
+: 43 
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: 8 
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 1 consumed item: 85
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 43 
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: 8 
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 2 consumed item: 43
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: 8 
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 1 produced item: 57
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: 8 
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: 57 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 2 produced item: 80
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 37 
+Wed Dec 25 16:13:10 2024
+: 8 
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: 57 
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 1 consumed item: 37
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 8 
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: 57 
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 1 produced item: 19
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 8 
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: 57 
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: 19 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 2 consumed item: 8
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: 57 
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: 19 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 2 produced item: 88
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 46 
+Wed Dec 25 16:13:10 2024
+: 57 
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: 19 
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 1 consumed item: 46
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 57 
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: 19 
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 2 consumed item: 57
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: 19 
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 1 produced item: 13
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: 19 
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: 13 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 2 produced item: 49
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 80 
+Wed Dec 25 16:13:10 2024
+: 19 
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: 13 
+Wed Dec 25 16:13:10 2024
+: 49 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 1 consumed item: 80
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 19 
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: 13 
+Wed Dec 25 16:13:10 2024
+: 49 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Consumer 2 consumed item: 19
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: 13 
+Wed Dec 25 16:13:10 2024
+: 49 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 1 produced item: 73
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: 13 
+Wed Dec 25 16:13:10 2024
+: 49 
+Wed Dec 25 16:13:10 2024
+: 73 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:10 2024
+: Producer 2 produced item: 60
+Wed Dec 25 16:13:10 2024
+: Buffer state: [
+Wed Dec 25 16:13:10 2024
+: 88 
+Wed Dec 25 16:13:10 2024
+: 13 
+Wed Dec 25 16:13:10 2024
+: 49 
+Wed Dec 25 16:13:10 2024
+: 73 
+Wed Dec 25 16:13:10 2024
+: 60 
+Wed Dec 25 16:13:10 2024
+: ]
+Wed Dec 25 16:13:11 2024
+: Consumer 1 consumed item: 88
+Wed Dec 25 16:13:11 2024
+: Buffer state: [
+Wed Dec 25 16:13:11 2024
+: 13 
+Wed Dec 25 16:13:11 2024
+: 49 
+Wed Dec 25 16:13:11 2024
+: 73 
+Wed Dec 25 16:13:11 2024
+: 60 
+Wed Dec 25 16:13:11 2024
+: ]
+Wed Dec 25 16:13:11 2024
+: Consumer 2 consumed item: 13
+Wed Dec 25 16:13:11 2024
+: Buffer state: [
+Wed Dec 25 16:13:11 2024
+: 49 
+Wed Dec 25 16:13:11 2024
+: 73 
+Wed Dec 25 16:13:11 2024
+: 60 
+Wed Dec 25 16:13:11 2024
+: ]
+Wed Dec 25 16:13:11 2024
+: Producer 1 produced item: 10
+Wed Dec 25 16:13:11 2024
+: Buffer state: [
+Wed Dec 25 16:13:11 2024
+: 49 
+Wed Dec 25 16:13:11 2024
+: 73 
+Wed Dec 25 16:13:11 2024
+: 60 
+Wed Dec 25 16:13:11 2024
+: 10 
+Wed Dec 25 16:13:11 2024
+: ]
+Wed Dec 25 16:13:11 2024
+: Producer 2 produced item: 37
+Wed Dec 25 16:13:11 2024
+: Buffer state: [
+Wed Dec 25 16:13:11 2024
+: 49 
+Wed Dec 25 16:13:11 2024
+: 73 
+Wed Dec 25 16:13:11 2024
+: 60 
+Wed Dec 25 16:13:11 2024
+: 10 
+Wed Dec 25 16:13:11 2024
+: 37 
+Wed Dec 25 16:13:11 2024
+: ]
+Wed Dec 25 16:13:11 2024
+: Consumer 1 consumed item: 49
+Wed Dec 25 16:13:11 2024
+: Buffer state: [
+Wed Dec 25 16:13:11 2024
+: 73 
+Wed Dec 25 16:13:11 2024
+: 60 
+Wed Dec 25 16:13:11 2024
+: 10 
+Wed Dec 25 16:13:11 2024
+: 37 
+Wed Dec 25 16:13:11 2024
+: ]
+Wed Dec 25 16:13:11 2024
+: Consumer 2 consumed item: 73
+Wed Dec 25 16:13:11 2024
+: Buffer state: [
+Wed Dec 25 16:13:11 2024
+: 60 
+Wed Dec 25 16:13:11 2024
+: 10 
+Wed Dec 25 16:13:11 2024
+: 37 
+Wed Dec 25 16:13:11 2024
+: ]
+Wed Dec 25 16:13:11 2024
+: Producer 1 produced item: 11
+Wed Dec 25 16:13:11 2024
+: Buffer state: [
+Wed Dec 25 16:13:11 2024
+: 60 
+Wed Dec 25 16:13:11 2024
+: 10 
+Wed Dec 25 16:13:11 2024
+: 37 
+Wed Dec 25 16:13:11 2024
+: 11 
+Wed Dec 25 16:13:11 2024
+: ]
+Wed Dec 25 16:13:11 2024
+: Producer 2 produced item: 43
+Wed Dec 25 16:13:11 2024
+: Buffer state: [
+Wed Dec 25 16:13:11 2024
+: 60 
+Wed Dec 25 16:13:11 2024
+: 10 
+Wed Dec 25 16:13:11 2024
+: 37 
+Wed Dec 25 16:13:11 2024
+: 11 
+Wed Dec 25 16:13:11 2024
+: 43 
+Wed Dec 25 16:13:11 2024
+: ]
